@@ -1,0 +1,46 @@
+#bg {
+  background-image: url("./images/bg.png");
+  position: relative;
+}
+
+.heros {
+  position: absolute;
+  background-image: url("./images/hero.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 110px;
+  bottom: 0;
+}
+.herosBack {
+  position: absolute;
+  background-image: url("./images/hero.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: -70px;
+  width: 70px;
+  height: 110px;
+  bottom: 0;
+}
+
+.herosLeft {
+  position: absolute;
+  background-image: url("./images/hero.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: -140px;
+  width: 70px;
+  height: 110px;
+  bottom: 0;
+}
+
+.herosRight {
+  position: absolute;
+  background-image: url("./images/hero.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: -px;
+  width: 70px;
+  height: 110px;
+  bottom: 0;
+}
